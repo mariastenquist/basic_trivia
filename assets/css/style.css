@@ -1,0 +1,27 @@
+body{
+  background: url("../images/fence.jpg");
+}
+.carousel-item {
+  background-color: #102E82;
+  /*hex colors match CO state flag*/
+}
+h1 {
+  color: #bf2c34;
+}
+h4 {
+  color: #f6d047;
+}
+
+.timer{ 
+  color: white;
+}
+.question{ 
+  color: white;
+  font-size: 24px;
+}
+
+.alert{
+  font-size: 36px;
+  color: white;
+  font-family: fantasy;
+}
